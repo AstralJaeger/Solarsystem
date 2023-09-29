@@ -8,5 +8,24 @@ Mars
 Jupiter
  - Europa
 Saturn
+ - Mimas
+ - Enceladus
+ - Tethys
+ - Dione
+ - Rhea
  - Titan
+ - Hyperion
+ - Iapetus
+ - Phoebe
+ - Janus
+ - Epimetheus
+ - Helene
+ - Telesto
+ - Calypso
+ - Atlas
+ - Prometheus
+ - Pandora
+ - Pan
+ - Ymir
+ - Paaliaq
 Uranus
