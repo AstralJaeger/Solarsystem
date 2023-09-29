@@ -8,5 +8,5 @@ Mars
 Jupiter
  - Europa
 Saturn
- - Better Titan
+ - Titan
 Uranus
